@@ -1,0 +1,1255 @@
+country,date,recovered
+United States,2020-01-22,0
+United States,2020-01-23,0
+United States,2020-01-24,0
+United States,2020-01-25,0
+United States,2020-01-26,0
+United States,2020-01-27,0
+United States,2020-01-28,0
+United States,2020-01-29,0
+United States,2020-01-30,0
+United States,2020-01-31,0
+United States,2020-02-01,0
+United States,2020-02-02,0
+United States,2020-02-03,0
+United States,2020-02-04,0
+United States,2020-02-05,0
+United States,2020-02-06,0
+United States,2020-02-07,0
+United States,2020-02-08,0
+United States,2020-02-09,3
+United States,2020-02-10,3
+United States,2020-02-11,3
+United States,2020-02-12,3
+United States,2020-02-13,3
+United States,2020-02-14,3
+United States,2020-02-15,3
+United States,2020-02-16,3
+United States,2020-02-17,3
+United States,2020-02-18,3
+United States,2020-02-19,3
+United States,2020-02-20,3
+United States,2020-02-21,5
+United States,2020-02-22,5
+United States,2020-02-23,5
+United States,2020-02-24,5
+United States,2020-02-25,6
+United States,2020-02-26,6
+United States,2020-02-27,6
+United States,2020-02-28,7
+United States,2020-02-29,7
+United States,2020-03-01,7
+United States,2020-03-02,7
+United States,2020-03-03,7
+United States,2020-03-04,7
+United States,2020-03-05,7
+United States,2020-03-06,7
+United States,2020-03-07,7
+United States,2020-03-08,7
+United States,2020-03-09,7
+United States,2020-03-10,8
+United States,2020-03-11,8
+United States,2020-03-12,12
+United States,2020-03-13,12
+United States,2020-03-14,12
+United States,2020-03-15,12
+United States,2020-03-16,17
+United States,2020-03-17,17
+United States,2020-03-18,105
+United States,2020-03-19,121
+United States,2020-03-20,147
+United States,2020-03-21,176
+United States,2020-03-22,178
+United States,2020-03-23,178
+United States,2020-03-24,348
+United States,2020-03-25,361
+United States,2020-03-26,681
+United States,2020-03-27,869
+United States,2020-03-28,1072
+United States,2020-03-29,2665
+United States,2020-03-30,5644
+United States,2020-03-31,7024
+United States,2020-04-01,8474
+United States,2020-04-02,9001
+United States,2020-04-03,9707
+United States,2020-04-04,14652
+United States,2020-04-05,17448
+United States,2020-04-06,19581
+United States,2020-04-07,21763
+United States,2020-04-08,23559
+United States,2020-04-09,25410
+United States,2020-04-10,28790
+United States,2020-04-11,31270
+United States,2020-04-12,32988
+United States,2020-04-13,43482
+United States,2020-04-14,47763
+United States,2020-04-15,52096
+United States,2020-04-16,54703
+United States,2020-04-17,58545
+United States,2020-04-18,64840
+United States,2020-04-19,70337
+United States,2020-04-20,72329
+United States,2020-04-21,75204
+United States,2020-04-22,77366
+United States,2020-04-23,80203
+United States,2020-04-24,99079
+United States,2020-04-25,100372
+United States,2020-04-26,106988
+United States,2020-04-27,111424
+United States,2020-04-28,115936
+United States,2020-04-29,120720
+United States,2020-04-30,153947
+United States,2020-05-01,164015
+United States,2020-05-02,175382
+United States,2020-05-03,180152
+United States,2020-05-04,187180
+United States,2020-05-05,189791
+United States,2020-05-06,189910
+United States,2020-05-07,195036
+United States,2020-05-08,198993
+United States,2020-05-09,212534
+United States,2020-05-10,216169
+United States,2020-05-11,232733
+United States,2020-05-12,230287
+United States,2020-05-13,243430
+United States,2020-05-14,246414
+India,2020-01-22,0
+India,2020-01-23,0
+India,2020-01-24,0
+India,2020-01-25,0
+India,2020-01-26,0
+India,2020-01-27,0
+India,2020-01-28,0
+India,2020-01-29,0
+India,2020-01-30,0
+India,2020-01-31,0
+India,2020-02-01,0
+India,2020-02-02,0
+India,2020-02-03,0
+India,2020-02-04,0
+India,2020-02-05,0
+India,2020-02-06,0
+India,2020-02-07,0
+India,2020-02-08,0
+India,2020-02-09,0
+India,2020-02-10,0
+India,2020-02-11,0
+India,2020-02-12,0
+India,2020-02-13,0
+India,2020-02-14,0
+India,2020-02-15,0
+India,2020-02-16,3
+India,2020-02-17,3
+India,2020-02-18,3
+India,2020-02-19,3
+India,2020-02-20,3
+India,2020-02-21,3
+India,2020-02-22,3
+India,2020-02-23,3
+India,2020-02-24,3
+India,2020-02-25,3
+India,2020-02-26,3
+India,2020-02-27,3
+India,2020-02-28,3
+India,2020-02-29,3
+India,2020-03-01,3
+India,2020-03-02,3
+India,2020-03-03,3
+India,2020-03-04,3
+India,2020-03-05,3
+India,2020-03-06,3
+India,2020-03-07,3
+India,2020-03-08,3
+India,2020-03-09,3
+India,2020-03-10,4
+India,2020-03-11,4
+India,2020-03-12,4
+India,2020-03-13,4
+India,2020-03-14,4
+India,2020-03-15,13
+India,2020-03-16,13
+India,2020-03-17,14
+India,2020-03-18,14
+India,2020-03-19,15
+India,2020-03-20,20
+India,2020-03-21,23
+India,2020-03-22,27
+India,2020-03-23,27
+India,2020-03-24,40
+India,2020-03-25,43
+India,2020-03-26,45
+India,2020-03-27,73
+India,2020-03-28,84
+India,2020-03-29,95
+India,2020-03-30,102
+India,2020-03-31,123
+India,2020-04-01,148
+India,2020-04-02,191
+India,2020-04-03,192
+India,2020-04-04,229
+India,2020-04-05,229
+India,2020-04-06,375
+India,2020-04-07,421
+India,2020-04-08,506
+India,2020-04-09,620
+India,2020-04-10,774
+India,2020-04-11,969
+India,2020-04-12,1080
+India,2020-04-13,1181
+India,2020-04-14,1359
+India,2020-04-15,1432
+India,2020-04-16,1768
+India,2020-04-17,2041
+India,2020-04-18,2463
+India,2020-04-19,2854
+India,2020-04-20,3273
+India,2020-04-21,3975
+India,2020-04-22,4370
+India,2020-04-23,5012
+India,2020-04-24,5498
+India,2020-04-25,5939
+India,2020-04-26,6523
+India,2020-04-27,7137
+India,2020-04-28,7747
+India,2020-04-29,8437
+India,2020-04-30,9068
+India,2020-05-01,10007
+India,2020-05-02,10819
+India,2020-05-03,11775
+India,2020-05-04,12847
+India,2020-05-05,14142
+India,2020-05-06,15331
+India,2020-05-07,16776
+India,2020-05-08,17887
+India,2020-05-09,19301
+India,2020-05-10,20969
+India,2020-05-11,22549
+India,2020-05-12,24420
+India,2020-05-13,26400
+India,2020-05-14,27969
+Italy,2020-01-22,0
+Italy,2020-01-23,0
+Italy,2020-01-24,0
+Italy,2020-01-25,0
+Italy,2020-01-26,0
+Italy,2020-01-27,0
+Italy,2020-01-28,0
+Italy,2020-01-29,0
+Italy,2020-01-30,0
+Italy,2020-01-31,0
+Italy,2020-02-01,0
+Italy,2020-02-02,0
+Italy,2020-02-03,0
+Italy,2020-02-04,0
+Italy,2020-02-05,0
+Italy,2020-02-06,0
+Italy,2020-02-07,0
+Italy,2020-02-08,0
+Italy,2020-02-09,0
+Italy,2020-02-10,0
+Italy,2020-02-11,0
+Italy,2020-02-12,0
+Italy,2020-02-13,0
+Italy,2020-02-14,0
+Italy,2020-02-15,0
+Italy,2020-02-16,0
+Italy,2020-02-17,0
+Italy,2020-02-18,0
+Italy,2020-02-19,0
+Italy,2020-02-20,0
+Italy,2020-02-21,0
+Italy,2020-02-22,1
+Italy,2020-02-23,2
+Italy,2020-02-24,1
+Italy,2020-02-25,1
+Italy,2020-02-26,3
+Italy,2020-02-27,45
+Italy,2020-02-28,46
+Italy,2020-02-29,46
+Italy,2020-03-01,83
+Italy,2020-03-02,149
+Italy,2020-03-03,160
+Italy,2020-03-04,276
+Italy,2020-03-05,414
+Italy,2020-03-06,523
+Italy,2020-03-07,589
+Italy,2020-03-08,622
+Italy,2020-03-09,724
+Italy,2020-03-10,724
+Italy,2020-03-11,1045
+Italy,2020-03-12,1045
+Italy,2020-03-13,1439
+Italy,2020-03-14,1966
+Italy,2020-03-15,2335
+Italy,2020-03-16,2749
+Italy,2020-03-17,2941
+Italy,2020-03-18,4025
+Italy,2020-03-19,4440
+Italy,2020-03-20,4440
+Italy,2020-03-21,6072
+Italy,2020-03-22,7024
+Italy,2020-03-23,7024
+Italy,2020-03-24,8326
+Italy,2020-03-25,9362
+Italy,2020-03-26,10361
+Italy,2020-03-27,10950
+Italy,2020-03-28,12384
+Italy,2020-03-29,13030
+Italy,2020-03-30,14620
+Italy,2020-03-31,15729
+Italy,2020-04-01,16847
+Italy,2020-04-02,18278
+Italy,2020-04-03,19758
+Italy,2020-04-04,20996
+Italy,2020-04-05,21815
+Italy,2020-04-06,22837
+Italy,2020-04-07,24392
+Italy,2020-04-08,26491
+Italy,2020-04-09,28470
+Italy,2020-04-10,30455
+Italy,2020-04-11,32534
+Italy,2020-04-12,34211
+Italy,2020-04-13,35435
+Italy,2020-04-14,37130
+Italy,2020-04-15,38092
+Italy,2020-04-16,40164
+Italy,2020-04-17,42727
+Italy,2020-04-18,44927
+Italy,2020-04-19,47055
+Italy,2020-04-20,48877
+Italy,2020-04-21,51600
+Italy,2020-04-22,54543
+Italy,2020-04-23,57576
+Italy,2020-04-24,60498
+Italy,2020-04-25,63120
+Italy,2020-04-26,64928
+Italy,2020-04-27,66624
+Italy,2020-04-28,68941
+Italy,2020-04-29,71252
+Italy,2020-04-30,75945
+Italy,2020-05-01,78249
+Italy,2020-05-02,79914
+Italy,2020-05-03,81654
+Italy,2020-05-04,82879
+Italy,2020-05-05,85231
+Italy,2020-05-06,93245
+Italy,2020-05-07,96276
+Italy,2020-05-08,99023
+Italy,2020-05-09,103031
+Italy,2020-05-10,105186
+Italy,2020-05-11,106587
+Italy,2020-05-12,109039
+Italy,2020-05-13,112541
+Italy,2020-05-14,115288
+Canada,2020-01-22,0
+Canada,2020-01-23,0
+Canada,2020-01-24,0
+Canada,2020-01-25,0
+Canada,2020-01-26,0
+Canada,2020-01-27,0
+Canada,2020-01-28,0
+Canada,2020-01-29,0
+Canada,2020-01-30,0
+Canada,2020-01-31,0
+Canada,2020-02-01,0
+Canada,2020-02-02,0
+Canada,2020-02-03,0
+Canada,2020-02-04,0
+Canada,2020-02-05,0
+Canada,2020-02-06,0
+Canada,2020-02-07,0
+Canada,2020-02-08,0
+Canada,2020-02-09,0
+Canada,2020-02-10,0
+Canada,2020-02-11,0
+Canada,2020-02-12,1
+Canada,2020-02-13,1
+Canada,2020-02-14,1
+Canada,2020-02-15,1
+Canada,2020-02-16,1
+Canada,2020-02-17,1
+Canada,2020-02-18,1
+Canada,2020-02-19,1
+Canada,2020-02-20,1
+Canada,2020-02-21,3
+Canada,2020-02-22,3
+Canada,2020-02-23,3
+Canada,2020-02-24,3
+Canada,2020-02-25,3
+Canada,2020-02-26,3
+Canada,2020-02-27,6
+Canada,2020-02-28,6
+Canada,2020-02-29,6
+Canada,2020-03-01,6
+Canada,2020-03-02,6
+Canada,2020-03-03,6
+Canada,2020-03-04,6
+Canada,2020-03-05,6
+Canada,2020-03-06,6
+Canada,2020-03-07,8
+Canada,2020-03-08,8
+Canada,2020-03-09,8
+Canada,2020-03-10,8
+Canada,2020-03-11,8
+Canada,2020-03-12,8
+Canada,2020-03-13,8
+Canada,2020-03-14,8
+Canada,2020-03-15,8
+Canada,2020-03-16,9
+Canada,2020-03-17,9
+Canada,2020-03-18,9
+Canada,2020-03-19,9
+Canada,2020-03-20,9
+Canada,2020-03-21,10
+Canada,2020-03-22,10
+Canada,2020-03-23,10
+Canada,2020-03-24,110
+Canada,2020-03-25,183
+Canada,2020-03-26,184
+Canada,2020-03-27,256
+Canada,2020-03-28,466
+Canada,2020-03-29,466
+Canada,2020-03-30,466
+Canada,2020-03-31,1592
+Canada,2020-04-01,1324
+Canada,2020-04-02,1735
+Canada,2020-04-03,2175
+Canada,2020-04-04,2577
+Canada,2020-04-05,3012
+Canada,2020-04-06,3256
+Canada,2020-04-07,3791
+Canada,2020-04-08,4154
+Canada,2020-04-09,5162
+Canada,2020-04-10,5855
+Canada,2020-04-11,6589
+Canada,2020-04-12,7123
+Canada,2020-04-13,7758
+Canada,2020-04-14,8210
+Canada,2020-04-15,8966
+Canada,2020-04-16,9698
+Canada,2020-04-17,10545
+Canada,2020-04-18,10964
+Canada,2020-04-19,11847
+Canada,2020-04-20,12543
+Canada,2020-04-21,13188
+Canada,2020-04-22,14454
+Canada,2020-04-23,14761
+Canada,2020-04-24,15149
+Canada,2020-04-25,16013
+Canada,2020-04-26,16883
+Canada,2020-04-27,18268
+Canada,2020-04-28,19231
+Canada,2020-04-29,20327
+Canada,2020-04-30,21424
+Canada,2020-05-01,22764
+Canada,2020-05-02,23814
+Canada,2020-05-03,24921
+Canada,2020-05-04,26030
+Canada,2020-05-05,27006
+Canada,2020-05-06,28184
+Canada,2020-05-07,29260
+Canada,2020-05-08,30239
+Canada,2020-05-09,31262
+Canada,2020-05-10,32109
+Canada,2020-05-11,33007
+Canada,2020-05-12,34055
+Canada,2020-05-13,35177
+Canada,2020-05-14,36104
+Spain,2020-01-22,0
+Spain,2020-01-23,0
+Spain,2020-01-24,0
+Spain,2020-01-25,0
+Spain,2020-01-26,0
+Spain,2020-01-27,0
+Spain,2020-01-28,0
+Spain,2020-01-29,0
+Spain,2020-01-30,0
+Spain,2020-01-31,0
+Spain,2020-02-01,0
+Spain,2020-02-02,0
+Spain,2020-02-03,0
+Spain,2020-02-04,0
+Spain,2020-02-05,0
+Spain,2020-02-06,0
+Spain,2020-02-07,0
+Spain,2020-02-08,0
+Spain,2020-02-09,0
+Spain,2020-02-10,0
+Spain,2020-02-11,0
+Spain,2020-02-12,0
+Spain,2020-02-13,0
+Spain,2020-02-14,0
+Spain,2020-02-15,2
+Spain,2020-02-16,2
+Spain,2020-02-17,2
+Spain,2020-02-18,2
+Spain,2020-02-19,2
+Spain,2020-02-20,2
+Spain,2020-02-21,2
+Spain,2020-02-22,2
+Spain,2020-02-23,2
+Spain,2020-02-24,2
+Spain,2020-02-25,2
+Spain,2020-02-26,2
+Spain,2020-02-27,2
+Spain,2020-02-28,2
+Spain,2020-02-29,2
+Spain,2020-03-01,2
+Spain,2020-03-02,2
+Spain,2020-03-03,2
+Spain,2020-03-04,2
+Spain,2020-03-05,2
+Spain,2020-03-06,2
+Spain,2020-03-07,30
+Spain,2020-03-08,30
+Spain,2020-03-09,32
+Spain,2020-03-10,32
+Spain,2020-03-11,183
+Spain,2020-03-12,183
+Spain,2020-03-13,193
+Spain,2020-03-14,517
+Spain,2020-03-15,517
+Spain,2020-03-16,530
+Spain,2020-03-17,1028
+Spain,2020-03-18,1081
+Spain,2020-03-19,1107
+Spain,2020-03-20,1588
+Spain,2020-03-21,2125
+Spain,2020-03-22,2575
+Spain,2020-03-23,2575
+Spain,2020-03-24,3794
+Spain,2020-03-25,5367
+Spain,2020-03-26,7015
+Spain,2020-03-27,9357
+Spain,2020-03-28,12285
+Spain,2020-03-29,14709
+Spain,2020-03-30,16780
+Spain,2020-03-31,19259
+Spain,2020-04-01,22647
+Spain,2020-04-02,26743
+Spain,2020-04-03,30513
+Spain,2020-04-04,34219
+Spain,2020-04-05,38080
+Spain,2020-04-06,40437
+Spain,2020-04-07,43208
+Spain,2020-04-08,48021
+Spain,2020-04-09,52165
+Spain,2020-04-10,55668
+Spain,2020-04-11,59109
+Spain,2020-04-12,62391
+Spain,2020-04-13,64727
+Spain,2020-04-14,67504
+Spain,2020-04-15,70853
+Spain,2020-04-16,74797
+Spain,2020-04-17,74797
+Spain,2020-04-18,74797
+Spain,2020-04-19,77357
+Spain,2020-04-20,80587
+Spain,2020-04-21,82514
+Spain,2020-04-22,85915
+Spain,2020-04-23,89250
+Spain,2020-04-24,92355
+Spain,2020-04-25,95708
+Spain,2020-04-26,98372
+Spain,2020-04-27,100875
+Spain,2020-04-28,102548
+Spain,2020-04-29,108947
+Spain,2020-04-30,112050
+Spain,2020-05-01,112050
+Spain,2020-05-02,117248
+Spain,2020-05-03,118902
+Spain,2020-05-04,121343
+Spain,2020-05-05,123486
+Spain,2020-05-06,126002
+Spain,2020-05-07,128511
+Spain,2020-05-08,131148
+Spain,2020-05-09,133952
+Spain,2020-05-10,136166
+Spain,2020-05-11,137139
+Spain,2020-05-12,138980
+Spain,2020-05-13,140823
+Spain,2020-05-14,143374
+France,2020-01-22,0
+France,2020-01-23,0
+France,2020-01-24,0
+France,2020-01-25,0
+France,2020-01-26,0
+France,2020-01-27,0
+France,2020-01-28,0
+France,2020-01-29,0
+France,2020-01-30,0
+France,2020-01-31,0
+France,2020-02-01,0
+France,2020-02-02,0
+France,2020-02-03,0
+France,2020-02-04,0
+France,2020-02-05,0
+France,2020-02-06,0
+France,2020-02-07,0
+France,2020-02-08,0
+France,2020-02-09,0
+France,2020-02-10,0
+France,2020-02-11,0
+France,2020-02-12,0
+France,2020-02-13,0
+France,2020-02-14,0
+France,2020-02-15,0
+France,2020-02-16,0
+France,2020-02-17,0
+France,2020-02-18,0
+France,2020-02-19,0
+France,2020-02-20,0
+France,2020-02-21,0
+France,2020-02-22,0
+France,2020-02-23,0
+France,2020-02-24,0
+France,2020-02-25,0
+France,2020-02-26,0
+France,2020-02-27,0
+France,2020-02-28,0
+France,2020-02-29,0
+France,2020-03-01,0
+France,2020-03-02,0
+France,2020-03-03,0
+France,2020-03-04,0
+France,2020-03-05,0
+France,2020-03-06,0
+France,2020-03-07,0
+France,2020-03-08,0
+France,2020-03-09,0
+France,2020-03-10,0
+France,2020-03-11,0
+France,2020-03-12,0
+France,2020-03-13,0
+France,2020-03-14,0
+France,2020-03-15,0
+France,2020-03-16,0
+France,2020-03-17,0
+France,2020-03-18,0
+France,2020-03-19,0
+France,2020-03-20,0
+France,2020-03-21,0
+France,2020-03-22,6
+France,2020-03-23,6
+France,2020-03-24,6
+France,2020-03-25,6
+France,2020-03-26,6
+France,2020-03-27,6
+France,2020-03-28,6
+France,2020-03-29,6
+France,2020-03-30,6
+France,2020-03-31,6
+France,2020-04-01,15
+France,2020-04-02,15
+France,2020-04-03,22
+France,2020-04-04,22
+France,2020-04-05,22
+France,2020-04-06,34
+France,2020-04-07,34
+France,2020-04-08,34
+France,2020-04-09,43
+France,2020-04-10,43
+France,2020-04-11,43
+France,2020-04-12,51
+France,2020-04-13,51
+France,2020-04-14,51
+France,2020-04-15,51
+France,2020-04-16,51
+France,2020-04-17,61
+France,2020-04-18,64
+France,2020-04-19,64
+France,2020-04-20,69
+France,2020-04-21,76
+France,2020-04-22,83
+France,2020-04-23,84
+France,2020-04-24,87
+France,2020-04-25,87
+France,2020-04-26,87
+France,2020-04-27,87
+France,2020-04-28,93
+France,2020-04-29,93
+France,2020-04-30,94
+France,2020-05-01,98
+France,2020-05-02,98
+France,2020-05-03,98
+France,2020-05-04,100
+France,2020-05-05,100
+France,2020-05-06,111
+France,2020-05-07,112
+France,2020-05-08,119
+France,2020-05-09,119
+France,2020-05-10,122
+France,2020-05-11,122
+France,2020-05-12,122
+France,2020-05-13,124
+France,2020-05-14,124
+United Kingdom,2020-01-22,0
+United Kingdom,2020-01-23,0
+United Kingdom,2020-01-24,0
+United Kingdom,2020-01-25,0
+United Kingdom,2020-01-26,0
+United Kingdom,2020-01-27,0
+United Kingdom,2020-01-28,0
+United Kingdom,2020-01-29,0
+United Kingdom,2020-01-30,0
+United Kingdom,2020-01-31,0
+United Kingdom,2020-02-01,0
+United Kingdom,2020-02-02,0
+United Kingdom,2020-02-03,0
+United Kingdom,2020-02-04,0
+United Kingdom,2020-02-05,0
+United Kingdom,2020-02-06,0
+United Kingdom,2020-02-07,0
+United Kingdom,2020-02-08,0
+United Kingdom,2020-02-09,0
+United Kingdom,2020-02-10,0
+United Kingdom,2020-02-11,0
+United Kingdom,2020-02-12,0
+United Kingdom,2020-02-13,0
+United Kingdom,2020-02-14,0
+United Kingdom,2020-02-15,0
+United Kingdom,2020-02-16,0
+United Kingdom,2020-02-17,0
+United Kingdom,2020-02-18,0
+United Kingdom,2020-02-19,0
+United Kingdom,2020-02-20,0
+United Kingdom,2020-02-21,0
+United Kingdom,2020-02-22,0
+United Kingdom,2020-02-23,0
+United Kingdom,2020-02-24,0
+United Kingdom,2020-02-25,0
+United Kingdom,2020-02-26,0
+United Kingdom,2020-02-27,0
+United Kingdom,2020-02-28,0
+United Kingdom,2020-02-29,0
+United Kingdom,2020-03-01,0
+United Kingdom,2020-03-02,0
+United Kingdom,2020-03-03,0
+United Kingdom,2020-03-04,0
+United Kingdom,2020-03-05,0
+United Kingdom,2020-03-06,0
+United Kingdom,2020-03-07,0
+United Kingdom,2020-03-08,0
+United Kingdom,2020-03-09,0
+United Kingdom,2020-03-10,0
+United Kingdom,2020-03-11,0
+United Kingdom,2020-03-12,0
+United Kingdom,2020-03-13,0
+United Kingdom,2020-03-14,0
+United Kingdom,2020-03-15,0
+United Kingdom,2020-03-16,0
+United Kingdom,2020-03-17,0
+United Kingdom,2020-03-18,0
+United Kingdom,2020-03-19,0
+United Kingdom,2020-03-20,0
+United Kingdom,2020-03-21,0
+United Kingdom,2020-03-22,0
+United Kingdom,2020-03-23,0
+United Kingdom,2020-03-24,0
+United Kingdom,2020-03-25,0
+United Kingdom,2020-03-26,2
+United Kingdom,2020-03-27,2
+United Kingdom,2020-03-28,2
+United Kingdom,2020-03-29,2
+United Kingdom,2020-03-30,2
+United Kingdom,2020-03-31,10
+United Kingdom,2020-04-01,10
+United Kingdom,2020-04-02,11
+United Kingdom,2020-04-03,14
+United Kingdom,2020-04-04,14
+United Kingdom,2020-04-05,14
+United Kingdom,2020-04-06,17
+United Kingdom,2020-04-07,17
+United Kingdom,2020-04-08,23
+United Kingdom,2020-04-09,25
+United Kingdom,2020-04-10,25
+United Kingdom,2020-04-11,25
+United Kingdom,2020-04-12,29
+United Kingdom,2020-04-13,30
+United Kingdom,2020-04-14,30
+United Kingdom,2020-04-15,33
+United Kingdom,2020-04-16,33
+United Kingdom,2020-04-17,35
+United Kingdom,2020-04-18,35
+United Kingdom,2020-04-19,35
+United Kingdom,2020-04-20,37
+United Kingdom,2020-04-21,37
+United Kingdom,2020-04-22,39
+United Kingdom,2020-04-23,39
+United Kingdom,2020-04-24,39
+United Kingdom,2020-04-25,39
+United Kingdom,2020-04-26,39
+United Kingdom,2020-04-27,44
+United Kingdom,2020-04-28,44
+United Kingdom,2020-04-29,48
+United Kingdom,2020-04-30,48
+United Kingdom,2020-05-01,48
+United Kingdom,2020-05-02,51
+United Kingdom,2020-05-03,51
+United Kingdom,2020-05-04,54
+United Kingdom,2020-05-05,54
+United Kingdom,2020-05-06,59
+United Kingdom,2020-05-07,61
+United Kingdom,2020-05-08,61
+United Kingdom,2020-05-09,64
+United Kingdom,2020-05-10,64
+United Kingdom,2020-05-11,66
+United Kingdom,2020-05-12,66
+United Kingdom,2020-05-13,66
+United Kingdom,2020-05-14,66
+Iraq,2020-01-22,0
+Iraq,2020-01-23,0
+Iraq,2020-01-24,0
+Iraq,2020-01-25,0
+Iraq,2020-01-26,0
+Iraq,2020-01-27,0
+Iraq,2020-01-28,0
+Iraq,2020-01-29,0
+Iraq,2020-01-30,0
+Iraq,2020-01-31,0
+Iraq,2020-02-01,0
+Iraq,2020-02-02,0
+Iraq,2020-02-03,0
+Iraq,2020-02-04,0
+Iraq,2020-02-05,0
+Iraq,2020-02-06,0
+Iraq,2020-02-07,0
+Iraq,2020-02-08,0
+Iraq,2020-02-09,0
+Iraq,2020-02-10,0
+Iraq,2020-02-11,0
+Iraq,2020-02-12,0
+Iraq,2020-02-13,0
+Iraq,2020-02-14,0
+Iraq,2020-02-15,0
+Iraq,2020-02-16,0
+Iraq,2020-02-17,0
+Iraq,2020-02-18,0
+Iraq,2020-02-19,0
+Iraq,2020-02-20,0
+Iraq,2020-02-21,0
+Iraq,2020-02-22,0
+Iraq,2020-02-23,0
+Iraq,2020-02-24,0
+Iraq,2020-02-25,0
+Iraq,2020-02-26,0
+Iraq,2020-02-27,0
+Iraq,2020-02-28,0
+Iraq,2020-02-29,0
+Iraq,2020-03-01,0
+Iraq,2020-03-02,0
+Iraq,2020-03-03,0
+Iraq,2020-03-04,0
+Iraq,2020-03-05,0
+Iraq,2020-03-06,0
+Iraq,2020-03-07,0
+Iraq,2020-03-08,0
+Iraq,2020-03-09,3
+Iraq,2020-03-10,3
+Iraq,2020-03-11,15
+Iraq,2020-03-12,15
+Iraq,2020-03-13,24
+Iraq,2020-03-14,26
+Iraq,2020-03-15,26
+Iraq,2020-03-16,26
+Iraq,2020-03-17,32
+Iraq,2020-03-18,43
+Iraq,2020-03-19,43
+Iraq,2020-03-20,49
+Iraq,2020-03-21,51
+Iraq,2020-03-22,57
+Iraq,2020-03-23,57
+Iraq,2020-03-24,75
+Iraq,2020-03-25,103
+Iraq,2020-03-26,105
+Iraq,2020-03-27,122
+Iraq,2020-03-28,131
+Iraq,2020-03-29,143
+Iraq,2020-03-30,152
+Iraq,2020-03-31,170
+Iraq,2020-04-01,182
+Iraq,2020-04-02,202
+Iraq,2020-04-03,226
+Iraq,2020-04-04,259
+Iraq,2020-04-05,279
+Iraq,2020-04-06,344
+Iraq,2020-04-07,373
+Iraq,2020-04-08,452
+Iraq,2020-04-09,496
+Iraq,2020-04-10,550
+Iraq,2020-04-11,601
+Iraq,2020-04-12,640
+Iraq,2020-04-13,717
+Iraq,2020-04-14,766
+Iraq,2020-04-15,812
+Iraq,2020-04-16,856
+Iraq,2020-04-17,906
+Iraq,2020-04-18,953
+Iraq,2020-04-19,1009
+Iraq,2020-04-20,1043
+Iraq,2020-04-21,1096
+Iraq,2020-04-22,1146
+Iraq,2020-04-23,1171
+Iraq,2020-04-24,1204
+Iraq,2020-04-25,1224
+Iraq,2020-04-26,1263
+Iraq,2020-04-27,1286
+Iraq,2020-04-28,1319
+Iraq,2020-04-29,1346
+Iraq,2020-04-30,1375
+Iraq,2020-05-01,1414
+Iraq,2020-05-02,1473
+Iraq,2020-05-03,1490
+Iraq,2020-05-04,1544
+Iraq,2020-05-05,1571
+Iraq,2020-05-06,1602
+Iraq,2020-05-07,1626
+Iraq,2020-05-08,1661
+Iraq,2020-05-09,1702
+Iraq,2020-05-10,1734
+Iraq,2020-05-11,1790
+Iraq,2020-05-12,1903
+Iraq,2020-05-13,1966
+Iraq,2020-05-14,2028
+Japan,2020-01-22,0
+Japan,2020-01-23,0
+Japan,2020-01-24,0
+Japan,2020-01-25,0
+Japan,2020-01-26,1
+Japan,2020-01-27,1
+Japan,2020-01-28,1
+Japan,2020-01-29,1
+Japan,2020-01-30,1
+Japan,2020-01-31,1
+Japan,2020-02-01,1
+Japan,2020-02-02,1
+Japan,2020-02-03,1
+Japan,2020-02-04,1
+Japan,2020-02-05,1
+Japan,2020-02-06,1
+Japan,2020-02-07,1
+Japan,2020-02-08,1
+Japan,2020-02-09,1
+Japan,2020-02-10,4
+Japan,2020-02-11,9
+Japan,2020-02-12,9
+Japan,2020-02-13,9
+Japan,2020-02-14,9
+Japan,2020-02-15,12
+Japan,2020-02-16,12
+Japan,2020-02-17,12
+Japan,2020-02-18,13
+Japan,2020-02-19,18
+Japan,2020-02-20,18
+Japan,2020-02-21,22
+Japan,2020-02-22,22
+Japan,2020-02-23,22
+Japan,2020-02-24,22
+Japan,2020-02-25,22
+Japan,2020-02-26,22
+Japan,2020-02-27,22
+Japan,2020-02-28,22
+Japan,2020-02-29,32
+Japan,2020-03-01,32
+Japan,2020-03-02,32
+Japan,2020-03-03,43
+Japan,2020-03-04,43
+Japan,2020-03-05,43
+Japan,2020-03-06,46
+Japan,2020-03-07,76
+Japan,2020-03-08,76
+Japan,2020-03-09,76
+Japan,2020-03-10,101
+Japan,2020-03-11,118
+Japan,2020-03-12,118
+Japan,2020-03-13,118
+Japan,2020-03-14,118
+Japan,2020-03-15,118
+Japan,2020-03-16,144
+Japan,2020-03-17,144
+Japan,2020-03-18,144
+Japan,2020-03-19,150
+Japan,2020-03-20,191
+Japan,2020-03-21,232
+Japan,2020-03-22,235
+Japan,2020-03-23,235
+Japan,2020-03-24,285
+Japan,2020-03-25,310
+Japan,2020-03-26,359
+Japan,2020-03-27,372
+Japan,2020-03-28,404
+Japan,2020-03-29,424
+Japan,2020-03-30,424
+Japan,2020-03-31,424
+Japan,2020-04-01,472
+Japan,2020-04-02,472
+Japan,2020-04-03,514
+Japan,2020-04-04,514
+Japan,2020-04-05,514
+Japan,2020-04-06,575
+Japan,2020-04-07,592
+Japan,2020-04-08,622
+Japan,2020-04-09,632
+Japan,2020-04-10,685
+Japan,2020-04-11,762
+Japan,2020-04-12,762
+Japan,2020-04-13,784
+Japan,2020-04-14,799
+Japan,2020-04-15,853
+Japan,2020-04-16,901
+Japan,2020-04-17,935
+Japan,2020-04-18,1069
+Japan,2020-04-19,1159
+Japan,2020-04-20,1159
+Japan,2020-04-21,1239
+Japan,2020-04-22,1356
+Japan,2020-04-23,1494
+Japan,2020-04-24,1530
+Japan,2020-04-25,1656
+Japan,2020-04-26,1809
+Japan,2020-04-27,1899
+Japan,2020-04-28,1899
+Japan,2020-04-29,2368
+Japan,2020-04-30,2460
+Japan,2020-05-01,2975
+Japan,2020-05-02,3205
+Japan,2020-05-03,3981
+Japan,2020-05-04,4156
+Japan,2020-05-05,4496
+Japan,2020-05-06,4496
+Japan,2020-05-07,4918
+Japan,2020-05-08,5146
+Japan,2020-05-09,5906
+Japan,2020-05-10,8127
+Japan,2020-05-11,8293
+Japan,2020-05-12,8531
+Japan,2020-05-13,8920
+Japan,2020-05-14,9868
+Germany,2020-01-22,0
+Germany,2020-01-23,0
+Germany,2020-01-24,0
+Germany,2020-01-25,0
+Germany,2020-01-26,0
+Germany,2020-01-27,0
+Germany,2020-01-28,0
+Germany,2020-01-29,0
+Germany,2020-01-30,0
+Germany,2020-01-31,0
+Germany,2020-02-01,0
+Germany,2020-02-02,0
+Germany,2020-02-03,0
+Germany,2020-02-04,0
+Germany,2020-02-05,0
+Germany,2020-02-06,0
+Germany,2020-02-07,0
+Germany,2020-02-08,0
+Germany,2020-02-09,0
+Germany,2020-02-10,0
+Germany,2020-02-11,0
+Germany,2020-02-12,0
+Germany,2020-02-13,1
+Germany,2020-02-14,1
+Germany,2020-02-15,1
+Germany,2020-02-16,1
+Germany,2020-02-17,1
+Germany,2020-02-18,12
+Germany,2020-02-19,12
+Germany,2020-02-20,12
+Germany,2020-02-21,14
+Germany,2020-02-22,14
+Germany,2020-02-23,14
+Germany,2020-02-24,14
+Germany,2020-02-25,14
+Germany,2020-02-26,15
+Germany,2020-02-27,16
+Germany,2020-02-28,16
+Germany,2020-02-29,16
+Germany,2020-03-01,16
+Germany,2020-03-02,16
+Germany,2020-03-03,16
+Germany,2020-03-04,16
+Germany,2020-03-05,16
+Germany,2020-03-06,17
+Germany,2020-03-07,18
+Germany,2020-03-08,18
+Germany,2020-03-09,18
+Germany,2020-03-10,18
+Germany,2020-03-11,25
+Germany,2020-03-12,25
+Germany,2020-03-13,46
+Germany,2020-03-14,46
+Germany,2020-03-15,46
+Germany,2020-03-16,67
+Germany,2020-03-17,67
+Germany,2020-03-18,105
+Germany,2020-03-19,113
+Germany,2020-03-20,180
+Germany,2020-03-21,233
+Germany,2020-03-22,266
+Germany,2020-03-23,266
+Germany,2020-03-24,3243
+Germany,2020-03-25,3547
+Germany,2020-03-26,5673
+Germany,2020-03-27,6658
+Germany,2020-03-28,8481
+Germany,2020-03-29,9211
+Germany,2020-03-30,13500
+Germany,2020-03-31,16100
+Germany,2020-04-01,18700
+Germany,2020-04-02,22440
+Germany,2020-04-03,24575
+Germany,2020-04-04,26400
+Germany,2020-04-05,28700
+Germany,2020-04-06,28700
+Germany,2020-04-07,36081
+Germany,2020-04-08,46300
+Germany,2020-04-09,52407
+Germany,2020-04-10,53913
+Germany,2020-04-11,57400
+Germany,2020-04-12,60300
+Germany,2020-04-13,64300
+Germany,2020-04-14,68200
+Germany,2020-04-15,72600
+Germany,2020-04-16,77000
+Germany,2020-04-17,83114
+Germany,2020-04-18,85400
+Germany,2020-04-19,88000
+Germany,2020-04-20,91500
+Germany,2020-04-21,95200
+Germany,2020-04-22,99400
+Germany,2020-04-23,103300
+Germany,2020-04-24,109800
+Germany,2020-04-25,109800
+Germany,2020-04-26,112000
+Germany,2020-04-27,114500
+Germany,2020-04-28,117400
+Germany,2020-04-29,120400
+Germany,2020-04-30,123500
+Germany,2020-05-01,126900
+Germany,2020-05-02,129000
+Germany,2020-05-03,130600
+Germany,2020-05-04,132700
+Germany,2020-05-05,135100
+Germany,2020-05-06,139900
+Germany,2020-05-07,141700
+Germany,2020-05-08,141700
+Germany,2020-05-09,143300
+Germany,2020-05-10,144400
+Germany,2020-05-11,145617
+Germany,2020-05-12,147200
+Germany,2020-05-13,148700
+Germany,2020-05-14,150300
+Brazil,2020-01-22,0
+Brazil,2020-01-23,0
+Brazil,2020-01-24,0
+Brazil,2020-01-25,0
+Brazil,2020-01-26,0
+Brazil,2020-01-27,0
+Brazil,2020-01-28,0
+Brazil,2020-01-29,0
+Brazil,2020-01-30,0
+Brazil,2020-01-31,0
+Brazil,2020-02-01,0
+Brazil,2020-02-02,0
+Brazil,2020-02-03,0
+Brazil,2020-02-04,0
+Brazil,2020-02-05,0
+Brazil,2020-02-06,0
+Brazil,2020-02-07,0
+Brazil,2020-02-08,0
+Brazil,2020-02-09,0
+Brazil,2020-02-10,0
+Brazil,2020-02-11,0
+Brazil,2020-02-12,0
+Brazil,2020-02-13,0
+Brazil,2020-02-14,0
+Brazil,2020-02-15,0
+Brazil,2020-02-16,0
+Brazil,2020-02-17,0
+Brazil,2020-02-18,0
+Brazil,2020-02-19,0
+Brazil,2020-02-20,0
+Brazil,2020-02-21,0
+Brazil,2020-02-22,0
+Brazil,2020-02-23,0
+Brazil,2020-02-24,0
+Brazil,2020-02-25,0
+Brazil,2020-02-26,0
+Brazil,2020-02-27,0
+Brazil,2020-02-28,0
+Brazil,2020-02-29,0
+Brazil,2020-03-01,0
+Brazil,2020-03-02,0
+Brazil,2020-03-03,0
+Brazil,2020-03-04,0
+Brazil,2020-03-05,0
+Brazil,2020-03-06,0
+Brazil,2020-03-07,0
+Brazil,2020-03-08,0
+Brazil,2020-03-09,0
+Brazil,2020-03-10,0
+Brazil,2020-03-11,0
+Brazil,2020-03-12,0
+Brazil,2020-03-13,0
+Brazil,2020-03-14,0
+Brazil,2020-03-15,0
+Brazil,2020-03-16,1
+Brazil,2020-03-17,2
+Brazil,2020-03-18,2
+Brazil,2020-03-19,2
+Brazil,2020-03-20,2
+Brazil,2020-03-21,2
+Brazil,2020-03-22,2
+Brazil,2020-03-23,2
+Brazil,2020-03-24,2
+Brazil,2020-03-25,2
+Brazil,2020-03-26,6
+Brazil,2020-03-27,6
+Brazil,2020-03-28,6
+Brazil,2020-03-29,6
+Brazil,2020-03-30,120
+Brazil,2020-03-31,127
+Brazil,2020-04-01,127
+Brazil,2020-04-02,127
+Brazil,2020-04-03,127
+Brazil,2020-04-04,127
+Brazil,2020-04-05,127
+Brazil,2020-04-06,127
+Brazil,2020-04-07,127
+Brazil,2020-04-08,127
+Brazil,2020-04-09,173
+Brazil,2020-04-10,173
+Brazil,2020-04-11,173
+Brazil,2020-04-12,173
+Brazil,2020-04-13,173
+Brazil,2020-04-14,3046
+Brazil,2020-04-15,14026
+Brazil,2020-04-16,14026
+Brazil,2020-04-17,14026
+Brazil,2020-04-18,14026
+Brazil,2020-04-19,22130
+Brazil,2020-04-20,22130
+Brazil,2020-04-21,22991
+Brazil,2020-04-22,25318
+Brazil,2020-04-23,26573
+Brazil,2020-04-24,27655
+Brazil,2020-04-25,29160
+Brazil,2020-04-26,30152
+Brazil,2020-04-27,31142
+Brazil,2020-04-28,32544
+Brazil,2020-04-29,34132
+Brazil,2020-04-30,35935
+Brazil,2020-05-01,38039
+Brazil,2020-05-02,40937
+Brazil,2020-05-03,42991
+Brazil,2020-05-04,45815
+Brazil,2020-05-05,48221
+Brazil,2020-05-06,51370
+Brazil,2020-05-07,55350
+Brazil,2020-05-08,59297
+Brazil,2020-05-09,61685
+Brazil,2020-05-10,64957
+Brazil,2020-05-11,67384
+Brazil,2020-05-12,72597
+Brazil,2020-05-13,78424
+Brazil,2020-05-14,79479
