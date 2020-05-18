@@ -1,4 +1,4 @@
-Location,PopTotal,PopDensity
+country,population,population_density
 Afghanistan,38041.757000000005,58.269
 Africa,1308064.176,44.119
 African Group,1306320.572,44.464
@@ -443,7 +443,7 @@ United Nations Economic and Social Commission for Asia and the Pacific (UN-ESCAP
 United Nations Member States,7707903.51,59.373000000000005
 United Republic of Tanzania,58005.460999999996,65.484
 United States Virgin Islands,104.579,298.797
-United States of America,329064.917,35.974000000000004
+United States,329064.917,35.974000000000004
 United States of America (and dependencies),332382.72,36.295
 Upper-middle-income countries,2638958.43,47.516000000000005
 Uruguay,3461.7309999999998,19.779
